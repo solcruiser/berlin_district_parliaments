@@ -1,3 +1,4 @@
+require 'scraperwiki'
 # Scraper All RIS
 require 'rubygems'
 require 'nokogiri'
