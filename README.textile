@@ -1,0 +1,5 @@
+Scraper for the All RIS http://www.cc-egov.de/allris.htm<br />
+*still under development*<br />
+Tested with:<br />
+- Berlin district parliaments<br />
+- Celle<br />
